@@ -1,0 +1,8 @@
+MIDlet-1: midApp, ,comm.midApp
+MIDlet-Jar-Size: 21831
+MIDlet-Jar-URL: FileExplorer_client.jar
+MIDlet-Name: FileExplorer_client
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
